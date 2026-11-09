@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="lingora-grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0A5CFF" />
+      <stop offset="52%" stop-color="#2589FF" />
+      <stop offset="100%" stop-color="#00E0FF" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#040A1E" />
+  <rect x="2" y="2" width="60" height="60" rx="16" stroke="url(#lingora-grad)" stroke-opacity="0.35" stroke-width="2" />
+  <path d="M16 32C16 25.3726 21.3726 20 28 20H32V28C32 34.6274 26.6274 40 20 40H16V32Z" fill="url(#lingora-grad)" opacity="0.85" />
+  <path d="M48 32C48 38.6274 42.6274 44 36 44H32V36C32 29.3726 37.3726 24 44 24H48V32Z" fill="#00E0FF" opacity="0.9" />
+  <path d="M25 32V28M32 37V27M39 36V32" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" />
+</svg>
+
